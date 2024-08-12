@@ -1,0 +1,74 @@
+[
+  {
+    "name": "SCALETON",
+    "address": "EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE",
+    "ticker": "SCALE",
+    "img": "https://assets.dedust.io/images/scale.webp",
+    "decimals": "9",
+    "idApi": "scaleton"
+  },
+  {
+    "name": "GRAMCOIN",
+    "address": "EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O",
+    "ticker": "GRAM",
+    "img": "https://assets.dedust.io/images/gram.webp",
+    "decimals": "9",
+    "idApi": "gram-2"
+  },
+  {
+    "name": "Ton Raffles Token",
+    "address": "EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h",
+    "ticker": "RAFF",
+    "img": "https://assets.dedust.io/images/raff.webp",
+    "decimals": "9",
+    "idApi": "ton-raffles"
+  },
+  {
+    "name": "jUSDT",
+    "address": "EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA",
+    "ticker": "Safe",
+    "img": "https://assets.dedust.io/images/usdt.webp",
+    "decimals": "9",
+    "idApi": "bridged-tether-ton-bridge"
+  },
+  {
+    "name": "Toncoin",
+    "address": "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
+    "ticker": "TON",
+    "img": "https://asset.ston.fi/img/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
+    "decimals": "9",
+    "idApi": "the-open-network"
+  },
+  {
+    "name": "Lavandos",
+    "address": "EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI",
+    "ticker": "LAVE",
+    "img": "https://assets.dedust.io/images/lave.webp",
+    "decimals": "9",
+    "idApi": "lavandos"
+  },
+  {
+    "name": "JetTon Game ",
+    "address": "EQAQXlWJvGbbFfE8F3oS8s87lIgdovS455IsWFaRdmJetTon",
+    "ticker": "JETTON",
+    "img": "https://assets.dedust.io/images/jetton.webp",
+    "decimals": "9",
+    "idApi": "jetton"
+  },
+  {
+    "name": "TON Cats Jetton",
+    "address": "EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C",
+    "ticker": "CATS",
+    "img": "https://assets.coingecko.com/coins/images/36693/standard/LOGO-200x200.png?1712115649",
+    "decimals": "9",
+    "idApi": "ton-cats-jetton"
+  },
+  {
+    "name": "TONNEL Network",
+    "address": "EQDNDv54v_TEU5t26rFykylsdPQsv5nsSZaH_v7JSJPtMitv",
+    "ticker": "TONNEL",
+    "img": "https://assets.dedust.io/images/tonnel.webp",
+    "decimals": "9",
+    "idApi": "tonnel-network"
+  }
+]

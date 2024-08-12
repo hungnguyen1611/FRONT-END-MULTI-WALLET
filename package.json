@@ -1,0 +1,63 @@
+{
+  "name": "wallet",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@angular/common": "^17.3.8",
+    "@ant-design/icons": "^5.3.6",
+    "@dedust/sdk": "^0.8.7",
+    "@orbs-network/ton-access": "^2.3.3",
+    "@solana/web3.js": "^1.91.4",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@ton/crypto": "^3.2.0",
+    "@ton/ton": "^13.11.1",
+    "antd": "^5.16.1",
+    "bip39": "^3.1.0",
+    "bootstrap": "^5.3.3",
+    "bs58": "^5.0.0",
+    "buffer": "^6.0.3",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1",
+    "i": "^0.3.7",
+    "npm": "^10.7.0",
+    "react": "^18.2.0",
+    "react-cookie": "^7.1.4",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.23.0",
+    "react-router-dom": "^6.23.0",
+    "react-scripts": "5.0.1",
+    "sweetalert2": "^11.10.7",
+    "ton": "^13.9.0",
+    "ton-crypto": "^3.2.0",
+    "use-history": "^1.4.1",
+    "web-vitals": "^2.1.4",
+    "zksync-web3": "^0.17.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

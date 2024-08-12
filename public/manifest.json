@@ -1,0 +1,35 @@
+{
+  "name": "Multi Wallet",
+  "description": "This is a extension",
+  "version": "2.0",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Multi Wallet",
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "pays.png",
+      "48": "pays.png",
+      "128": "pays.png"
+    }
+  },
+  "permissions": ["storage", "tabs", "activeTab", "windows"],
+  "icons": {
+    "16": "pays.png",
+    "48": "pays.png",
+    "128": "pays.png"
+  },
+
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "externally_connectable": {
+    "matches": ["<all_urls>"]
+  }
+}
